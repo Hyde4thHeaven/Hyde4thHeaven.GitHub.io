@@ -1,5 +1,5 @@
 # Hyde4thHeaven.GitHub.io
-<img src="https://github.com/Hyde4thHeaven/Hyde4thHeaven.GitHub.io/blob/main/profile.jpg" alt="drawing" width="150"/>
+<img src="/profile.jpg" alt="drawing" width="150"/>
 
 `Mr.Vuttawat Uyanont` 
 > Graduated: B.Engineering (Civil) from Thammasat University, 2006.
