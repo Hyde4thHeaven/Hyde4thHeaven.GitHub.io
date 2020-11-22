@@ -8,7 +8,7 @@ Graduated: B.Engineering (Civil) from Thammasat University, 2006.
 
 ## Lives
 > + Non-direct experienced in Cybersecurity but some are connected.  
-> + Intermediate level on coding.
+> + Intermediate level programming.
 > + Interesting in IT & Tech, Banking, Financial, Real Estate, and Business.
 > + Looking for an opportunity in both Cybersecurity and Blockchain technology.
 
