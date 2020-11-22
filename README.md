@@ -3,9 +3,9 @@
 <table border="0">
  <tr>
     <td><img src="profile.jpg" alt="drawing" width="150"/></td>
-    <td>`Mr.Vuttawat Uyanont`  
-**Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  </td>
+  <td> <h2><font color="Blue"> Mr.Vuttawat Uyanont </font></h2> <br>  
+     <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
+     <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  </td>
  </tr>
 </table>
 
