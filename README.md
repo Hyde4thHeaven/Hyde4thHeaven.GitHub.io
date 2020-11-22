@@ -1,8 +1,13 @@
 # Hyde4thHeaven.GitHub.io
-<img src="profile.jpg" alt="drawing" width="150"/>  
-`Mr.Vuttawat Uyanont`  
+
+<table border="0">
+ <tr>
+    <td><img src="profile.jpg" alt="drawing" width="150"/></td>
+    <td>`Mr.Vuttawat Uyanont`  
 **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  </td>
+ </tr>
+</table>
 
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
