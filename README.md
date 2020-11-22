@@ -1,8 +1,9 @@
 # Hyde4thHeaven.GitHub.io
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+![The Dojocat](https://octodex.github.com/images/dojocat.jpg)
 
 ## Mr.Vuttawat Uyanont
 10 years experienced project manager. 
+
 Graduated: B.Eng (Civil) from Thammasat University, 2006.
 Starting a job as Civil Engineer for 5 years, then turn into financial and banking field.
 
