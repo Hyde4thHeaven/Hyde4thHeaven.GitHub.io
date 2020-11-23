@@ -1,26 +1,50 @@
-# Hyde4thHeaven.GitHub.io
+# How to create a new GitLab pages from scratch (HTML pages)
 
-<table border="0">
- <tr>
-    <td><img src="/img/profile.jpg" width="150"/></td>
-  <td> <h2><font color="Blue"> Mr.Vuttawat Uyanont </font></h2> <br>  
-     <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
-     <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  </td>
- </tr>
-</table>
+`On GitLab:`
+## 1. Create a new blank project.  
+<img src="/img/1.png" width="650"/>  
+  
+## 2. Detailed project.  
+> **2.1** Your project name will be the path of your pages name like: https://'YourGitLabName'.gitlab.io/'YourProjectName'/  
+> **2.2** Choose Visibility Level to Public, then click 'Create project' button.
+<img src="/img/2.png" width="650"/>  
+  
+## 3. Go to your project 'YourProjectName'.  
 
-## Careers
-> + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
-> + Turn into the financial and banking field, *[Government Savings Bank](https://www.gsb.or.th)*, since 2009.  
-> + From 2019, move to the insurance field, *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
-
-## Lives
-> + Non-experience in direct-Cybersecurity. Have to coordinate some work with stakeholders.  
-> + Intermediate level programming.  
-> + Interested in IT & Tech, Banking, Financial, Real Estate, and Business.  
-> + Looking for an opportunity in both Cybersecurity and Blockchain technology.  
-
-## Hobbies
-> + Crafted beer / Beer testing  
-> + Trading Card Game  
-> + Go  
+## 4. Click "+ New File" button to create a html file.  
+<img src="/img/4.png" width="650"/>  
+  
+## 5. Create a html file named 'index.html' with any code you want to show your profile, then Commit changes.  
+<img src="/img/5.png" width="650"/>  
+    
+## 6. Click "+ Set up CI/CD" button.  
+<img src="/img/6.png" width="650"/>  
+  
+## 7. Create the master/.gitlab-ci.yml file to run your pages.
+> **7.1** Create New File >> master/.gitlab-ci.yml  
+> **7.2** Copy these text to the file:  
+>> image: ruby:2.7  
+>> pages:  
+>>   stage: deploy  
+>>   script:  
+>>     - mkdir .public  
+>>     - cp -r * .public  
+>>     - mv .public public  
+>>   artifacts:  
+>>     paths:  
+>>       - public  
+>>   only:  
+>>     - master  
+> **7.3** Commit changes to finish.  
+<img src="/img/7.png" width="650"/>  
+  
+## 8. Check Pipelines.  
+> **8.1** Click shortcut CI/CD button on the left of the screen (Rocket icon).  
+> **8.2** Select 'Pipelines'  
+<img src="/img/8.png" width="650"/>  
+  
+## 9. Waiting until Stages of 'Update .gitlab-ci.yml' turn to green correct mark.  
+<img src="/img/9.png" width="650"/>  
+  
+## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
+<img src="/img/9.png" width="650"/>  
