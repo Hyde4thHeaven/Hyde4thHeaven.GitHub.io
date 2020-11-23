@@ -53,7 +53,7 @@
 ______________________________
 <table border="0">
  <tr>
-   <td> <h3><i><u>"5 Easy Steps to Spot a Procrastinator:</u>  <br>
+   <td> <h3><i>"5 Easy Steps to Spot a Procrastinator:  <br>
       &nbsp; &nbsp; &nbsp; - 1. Look at</i>
       </h3>
       <hr>
