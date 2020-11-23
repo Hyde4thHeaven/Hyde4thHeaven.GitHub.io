@@ -53,12 +53,12 @@
 ______________________________
 <table border="0">
  <tr>
-    <td> <h3>My 1<sup>st</sup> Blog - <br>
-      "5 Easy Steps to Spot a Procrastinator:  <br>
-      1. Look at
+    <td> <h3><i>"5 Easy Steps to Spot a Procrastinator:  <br>
+      1. Look at</i>
       </h3>
+      <hr>
       <b><font color="Blue"> Author: Vuttawat Uyanont </font></b>  <br>
-      Former engineer and banker who interested in IT & Tech, Traveling, Food, and Drink.  <br>
+      Sexiest former engineer and banker who interested in IT & Tech, and Beer.  <br>
       <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  <br> </td>  
    <td><img src="./img/author.png" width="150"/></td>  
  </tr>
