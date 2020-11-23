@@ -18,7 +18,7 @@
 > + After financial trends grow very fast and will be the future of the world in 2010-2020, he decided to turn his career to the financial and banking field, at *[Government Savings Bank](https://www.gsb.or.th)*, in 2009. From evaluating officer, procurement officer, to procurement planning manager and also acting CEO of the special strategic team in the smart procurement development project.  
 > + To live his own life and find something driven by his skills, in 2019, he moves into the insurance field, at *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
-## Awards and Certificates 
+## Awards and Licenses 
 > + **GSB Excellence Award 2018**, Organizational Development.  
 > + **GSB KM Award 2017**, Procurement Knownledge Management.  
 > + License for **Life Insurance Agent**.  
