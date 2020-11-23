@@ -53,7 +53,10 @@
 ______________________________
 <table border="0">
  <tr>
-    <td> <h3>アバダケダブラ!</h3>  <br>  
+    <td> <h3>My 1<sup>st</sup> Blog - <br>
+      "5 Easy Steps to Spot a Procrastinator:  <br>
+      1. Look at
+      </h3>
       <b><font color="Blue"> Author: Vuttawat Uyanont </font></b>  <br>
       Former engineer and banker who interested in IT & Tech, Traveling, Food, and Drink.  <br>
       <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  <br> </td>  
