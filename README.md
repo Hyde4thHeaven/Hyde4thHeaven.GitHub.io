@@ -1,4 +1,4 @@
-# Biography @Hyde4thHeaven.GitHub.io
+# Biography
 
 <table border="0">
  <tr>
