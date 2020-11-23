@@ -24,6 +24,7 @@
 > **7.1** Create New File >> master/.gitlab-ci.yml  
 > **7.2** Copy these text to the file:  
 >> image: ruby:2.7  
+>>  
 >> pages:  
 >>   stage: deploy  
 >>   script:  
@@ -47,3 +48,4 @@
 <img src="./img/9.png" width="650">  
   
 ## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
+### [This is my GitLab pages, https://hyde4thheaven.gitlab.io/profile/, created by this method. Take a tour!](https://hyde4thheaven.gitlab.io/profile/)
