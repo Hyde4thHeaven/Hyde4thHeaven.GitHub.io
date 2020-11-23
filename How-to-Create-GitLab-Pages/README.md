@@ -2,23 +2,23 @@
 
 `On GitLab:`
 ## 1. Create a new blank project.  
-<img src="/img/1.png" width="650"/>  
+<img src="./img/1.png" width="650">  
   
 ## 2. Detailed project.  
 > **2.1** Your project name will be the path of your pages name like: https://'YourGitLabName'.gitlab.io/'YourProjectName'/  
-> **2.2** Choose Visibility Level to Public, then click 'Create project' button.
-<img src="/img/2.png" width="650"/>  
+> **2.2** Choose Visibility Level to Public, then click 'Create project' button.  
+<img src="./img/2.png" width="650">  
   
 ## 3. Go to your project 'YourProjectName'.  
 
 ## 4. Click "+ New File" button to create a html file.  
-<img src="/img/4.png" width="650"/>  
+<img src="./img/4.png" width="650">  
   
 ## 5. Create a html file named 'index.html' with any code you want to show your profile, then Commit changes.  
-<img src="/img/5.png" width="650"/>  
+<img src="./img/5.png" width="650">  
     
 ## 6. Click "+ Set up CI/CD" button.  
-<img src="/img/6.png" width="650"/>  
+<img src="./img/6.png" width="650">  
   
 ## 7. Create the master/.gitlab-ci.yml file to run your pages.
 > **7.1** Create New File >> master/.gitlab-ci.yml  
@@ -36,15 +36,15 @@
 >>   only:  
 >>     - master  
 > **7.3** Commit changes to finish.  
-<img src="/img/7.png" width="650"/>  
+<img src="./img/7.png" width="650">  
   
 ## 8. Check Pipelines.  
 > **8.1** Click shortcut CI/CD button on the left of the screen (Rocket icon).  
 > **8.2** Select 'Pipelines'  
-<img src="/img/8.png" width="650"/>  
+<img src="./img/8.png" width="650">  
   
 ## 9. Waiting until Stages of 'Update .gitlab-ci.yml' turn to green correct mark.  
-<img src="/img/9.png" width="650"/>  
+<img src="./img/9.png" width="650">  
   
 ## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
-<img src="/img/9.png" width="650"/>  
+<img src="./img/9.png" width="650">  
