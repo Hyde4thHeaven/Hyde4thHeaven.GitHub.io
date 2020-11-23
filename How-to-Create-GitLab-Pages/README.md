@@ -48,7 +48,7 @@
 <img src="./img/9.png" width="650">  
   
 ## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
-### [This is my GitLab pages, https://hyde4thheaven.gitlab.io/profile/, created by this method. Take a tour!](https://hyde4thheaven.gitlab.io/profile/)
+### This is my GitLab pages, [https://hyde4thheaven.gitlab.io/profile/](https://hyde4thheaven.gitlab.io/profile/), created by this method. Take a tour!
   
 ______________________________
 <table border="0">
