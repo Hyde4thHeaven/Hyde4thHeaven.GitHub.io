@@ -47,4 +47,3 @@
 <img src="./img/9.png" width="650">  
   
 ## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
-<img src="./img/9.png" width="650">  
