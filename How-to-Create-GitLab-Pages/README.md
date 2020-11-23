@@ -49,3 +49,14 @@
   
 ## 10. Finished! Enjoy your profile pages at https://'YourGitLabName'.gitlab.io/'YourProjectName'/.  
 ### [This is my GitLab pages, https://hyde4thheaven.gitlab.io/profile/, created by this method. Take a tour!](https://hyde4thheaven.gitlab.io/profile/)
+  
+______________________________
+<table border="0">
+ <tr>
+    <td> <h3>アバダケダブラ!</h3>  <br>  
+      <b><font color="Blue"> Author: Vuttawat Uyanont </font></b>  <br>
+      Former engineer and banker who interested in IT & Tech, Traveling, Food, and Drink.  <br>
+      <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  <br> </td>  
+   <td><img src="./img/author.png" width="150"/></td>  
+ </tr>
+</table>
