@@ -26,7 +26,7 @@
 
 ## Lives
 > + Does not have any experience in direct-Cybersecurity but has to coordinate some work with stakeholders.  
-> + Skill at Intermediate level programming  
+> + Intermediate programming skills.  
 > + Interested in IT & Tech, Banking, Financial, Real Estate, and Business.  
 > + Also looks for an opportunity in both Cybersecurity and Blockchain technology.  
 
