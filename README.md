@@ -16,7 +16,7 @@
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
 > + After financial trends grow very fast and will be the future of the world in 2010-2020, he decided to turn his career to the financial and banking field, at *[Government Savings Bank](https://www.gsb.or.th)*, in 2009. From evaluating officer, procurement officer, to procurement planning manager and also acting CEO of the special strategic team in the smart procurement development project.  
-> + To live his own life and find something driven by his skills, in 2019, he moves into the insurance field, at *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
+> + To live his own life and find something driven by his skills, in 2019, he moves to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
 ## Awards and Licenses 
 > + **GSB Excellence Award 2018**, Organizational Development.  
