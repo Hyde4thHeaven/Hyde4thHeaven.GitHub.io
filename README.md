@@ -5,7 +5,7 @@
  <tr>
   <td><img src="profile.jpg" width="150"/></td>
   <td><h1><font color="Blue"> Vuttawat Uyanont</font></h1>
-      <b>A.K.A.</b> Palm / Harry  <br>
+      was born in Bangkok, 1984. <b>A.K.A.</b> Palm / Harry  <br>
       <font color="grey"><i>10 years experienced project manager and CEO of THINK COMBO Co., Ltd.</i></font>  <br>
       <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
       <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  
@@ -15,7 +15,7 @@
 
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
-> + After financial trends grow very fast and will be the future of the world in 2010-2020, he decided to turn his career to the financial and banking field, at *[Government Savings Bank](https://www.gsb.or.th)*, in 2009. From evaluating officer, procurement officer, to procurement planning manager and also acting CEO of the special strategic team in the smart procurement development project.  
+> + Back in during the years 2006-2009, financial trends grow very fast and will be the future of the world in 2010-2020, he decided to turn his career to the financial and banking field, at *[Government Savings Bank](https://www.gsb.or.th)*. From evaluating officer, procurement officer, to procurement planning manager and also acting CEO of the special strategic team in the smart procurement development project.  
 > + To live his own life and find something driven by his skills, in 2019, he moves to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
 ## Awards and Licenses 
