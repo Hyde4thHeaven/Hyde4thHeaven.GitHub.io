@@ -1,3 +1,5 @@
+<body style="background-color:#EBF5FB;"> 
+  
 # Biography
 
 <table border="0">
@@ -38,3 +40,5 @@
 ## Favorite contents  
 > *5 Easy Steps to Spot a Procrastinator:*  
 >> *1. Look at*  
+
+</body>
