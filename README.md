@@ -5,7 +5,6 @@
  <tr>
   <td><img src="profile.jpg" width="150"/></td>
   <td><h2><font color="Blue"> Vuttawat Uyanont</font></h2>
-      <hr>
       <b>A.K.A.</b> Palm / Harry  <br>
       <font color="grey"><i>10 years experienced project manager and CEO of THINK COMBO Co., Ltd.</i></font>  <br>
       <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
