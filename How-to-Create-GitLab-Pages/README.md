@@ -1,6 +1,7 @@
-# How to create a new GitLab pages from scratch (HTML pages)
-
-`On GitLab:`
+# How to create a new GitLab pages from scratch (HTML pages)  
+`23 November 2020`  
+<hr>
+`On GitLab:`  
 ## 1. Create a new blank project.  
 <img src="./img/1.png" width="650">  
   
@@ -53,9 +54,7 @@
 ______________________________
 <table border="0">
  <tr>
-   <td> <h3><i>"5 Easy Steps to Spot a Procrastinator:  <br>
-      &nbsp; &nbsp; &nbsp; - 1. Look at</i>
-      </h3>
+   <td> <h3><i>Although my profile picture is quiet, but the real me can make some noise.</i></h3>
       <hr>
       <b><font color="Blue"> Author: Vuttawat Uyanont </font></b>  <br>
       <font color="grey"><i>Sexiest former engineer and banker who interested in IT & Tech, Sake, and Beer.</i></font>  <br>
