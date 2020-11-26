@@ -1,6 +1,6 @@
 # How to create a new GitLab pages from scratch (HTML pages)  
 `23 November 2020`  
-<hr>
+<hr>  
 `On GitLab:`  
 ## 1. Create a new blank project.  
 <img src="./img/1.png" width="650">  
