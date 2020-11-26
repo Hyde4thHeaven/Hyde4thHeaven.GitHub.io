@@ -35,9 +35,18 @@
 > + Crafted beer  
 > + Trading Card Game  
 > + Go  
-
-## Favorite contents  
-> *5 Easy Steps to Spot a Procrastinator:*  
->> *1. Look at*  
+  
+## On the back of his contents created
+> + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
+  
+## Keep in touch with Harry via:  
+<p>
+  <a href="https://www.linkedin.com/in/v-uyanont/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/Hyde4thHeaven" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 
