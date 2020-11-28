@@ -1,8 +1,8 @@
-![profile](/profile.jpg =150x200) | # VUTTAWAT UYANONT  
-| Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
-| *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
-| **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-| **Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+# VUTTAWAT UYANONT  
+![](profile.jpg){:height=200 width=150} | Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
+*10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
+**Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
+**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
   
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
@@ -30,10 +30,10 @@
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
   
 ## Keep in touch with me via:  
-![Design Factory Korea](/Korea.jpg =650x){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-- [x] ![LinkedIn](/linkedin.png =24x24) [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
-- [x] ![Github](/GitHub.png =24x24) [My GitHub](https://github.com/Hyde4thHeaven/)  
-- [ ] ![Facebook](/facebook.png =24x24) PM me yours first. :laughing:  
-- [ ] ![Twitter](/twitter.png =24x24) Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
+![Design Factory Korea](Korea.jpg){:width=650 style="float: right"}  
+- [x] ![LinkedIn](linkedin.png){:height=24 width=24} [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
+- [x] ![Github](GitHub.png){:height=24 width=24} [My GitHub](https://github.com/Hyde4thHeaven/)  
+- [ ] ![Facebook](facebook.png){:height=24 width=24} PM me yours first. :laughing:  
+- [ ] ![Twitter](twitter.png){:height=24 width=24} Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
 
 
