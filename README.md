@@ -38,9 +38,9 @@
   
 ## Keep in touch with me via:  
 <img src="Korea.jpg" width="650" style="float:right"/>
-- [x] ![LinkedIn](/linkedin.png)  
-- [x] ![Github](https://i.stack.imgur.com/tskMh.png)  
-- [ ] ![Facebook](/facebook.png) PM me yours first :laughing:  
-- [ ] ![Twitter](/twitter.png) Sorry! for sniffing only :zany_face:  
+- [x] ![LinkedIn](/linkedin.png =24x24)  
+- [x] ![Github](/GitHub.png =24x24)  
+- [ ] ![Facebook](/facebook.png =24x24) PM me yours first. :laughing:  
+- [ ] ![Twitter](/twitter.png =24x24) Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
 
 
