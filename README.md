@@ -23,7 +23,7 @@
 > + License for **Professional Practice, Associate Civil Engineer**.  
 
 ## Lives
-> + Do not have any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
+> + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
 > + Intermediate programming skills.  
 > + Interested in IT & Tech, Banking, Financial, Real Estate, and Business.  
 > + Also looks for an opportunity in both Cybersecurity and Blockchain technology.  
