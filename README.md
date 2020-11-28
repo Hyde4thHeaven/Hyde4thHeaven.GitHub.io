@@ -37,11 +37,12 @@
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
   
 ## Keep in touch with Harry via:  
-<img src="Korea.jpg" width="150" style="float:right"/>
+<img src="Korea.jpg" width="650" style="float:right"/>
 <p>
   <a href="https://www.linkedin.com/in/v-uyanont/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+  </a> 
+ <br>
   <a href="https://github.com/Hyde4thHeaven" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
