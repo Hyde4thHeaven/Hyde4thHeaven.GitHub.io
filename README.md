@@ -26,7 +26,7 @@
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
 > + Intermediate programming skills.  
 > + Interested in IT & Tech, Banking, Financial, Real Estate, and Business.  
-> + Also looks for an opportunity in both Cybersecurity and Blockchain technology.  
+> + Look for an opportunity in both Cybersecurity and Blockchain technology.  
 
 ## Hobbies
 > + Crafted beer  
@@ -38,14 +38,9 @@
   
 ## Keep in touch with me via:  
 <img src="Korea.jpg" width="650" style="float:right"/>
-<p>
-  <a href="https://www.linkedin.com/in/v-uyanont/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> 
- <br>
-  <a href="https://github.com/Hyde4thHeaven" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
+- [x] ![LinkedIn](/linkedin.png)  
+- [x] ![Github](https://i.stack.imgur.com/tskMh.png)  
+- [ ] ![Facebook](/facebook.png) PM me yours first :laughing:  
+- [ ] ![Twitter](/twitter.png) Sorry! for sniffing only :zany_face:  
 
 
