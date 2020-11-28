@@ -11,12 +11,12 @@
 > + To live my own life and find something driven by my skills, in 2019, I move to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
 ## Awards and Licenses 
-Year | Awards and Achievements
------- | ------
-2018 | **GSB Excellence Award**, Organizational Development.
-2017 | **GSB KM Award**, Procurement Knownledge Management.
-- | License for **Life Insurance Agent**.
-- | License for **Professional Practice, Associate Civil Engineer**.
+| Year | Awards and Achievements |
+| ------ | ------ |
+| 2018 | **GSB Excellence Award**, Organizational Development.
+| 2017 | **GSB KM Award**, Procurement Knownledge Management.
+| | License for **Life Insurance Agent**.
+| | License for **Professional Practice, Associate Civil Engineer**.
   
 ## Lives
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
@@ -33,10 +33,10 @@ Year | Awards and Achievements
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
   
 ## Keep in touch with me via:  
-![Design Factory Korea](Korea.jpg){:height="50%" width="50%" style="float: right"}  
-- [x] ![LinkedIn](linkedin.png){:height="10%" width="10%"} [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
-- [x] ![Github](GitHub.png){:height="10%" width="10%"} [My GitHub](https://github.com/Hyde4thHeaven/)  
-- [ ] ![Facebook](facebook.png){:height="10%" width="10%"} PM me yours first. :laughing:  
-- [ ] ![Twitter](twitter.png){:height="10%" width="10%"} Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
+![](Korea.jpg){:height="50%" width="50%" style="float: right"}  
+- [x] ![](linkedin.png){:height="10%" width="10%"} [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
+- [x] ![](GitHub.png){:height="10%" width="10%"} [My GitHub](https://github.com/Hyde4thHeaven/)  
+- [ ] ![](facebook.png){:height="10%" width="10%"} PM me yours first. :laughing:  
+- [ ] ![](twitter.png){:height="10%" width="10%"} Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
 
 
