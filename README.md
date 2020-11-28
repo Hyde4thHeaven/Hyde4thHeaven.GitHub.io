@@ -1,5 +1,5 @@
 # VUTTAWAT UYANONT  
-![](profile.jpg){:height="20%"}
+![](profile.jpg){:height="-80%" width="-80%"}
 > Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
 > *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
 > **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
@@ -13,11 +13,11 @@
 ## Awards and Licenses 
 Year | Awards and Achievements
 ---- | ----
-2018 | **GSB Excellence Award**, Organizational Development.  
-2017 | **GSB KM Award**, Procurement Knownledge Management.  
- -   | License for **Life Insurance Agent**.  
- -   | License for **Professional Practice, Associate Civil Engineer**.  
-
+2018 | **GSB Excellence Award**, Organizational Development.
+2017 | **GSB KM Award**, Procurement Knownledge Management.
+ -   | License for **Life Insurance Agent**.
+ -   | License for **Professional Practice, Associate Civil Engineer**.
+  
 ## Lives
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
 > + Intermediate programming skills.  
