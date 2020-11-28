@@ -38,8 +38,8 @@
   
 ## Keep in touch with me via:  
 <img src="Korea.jpg" width="650" style="float:right"/>
-- [x] ![LinkedIn](/linkedin.png =24x24)  
-- [x] ![Github](/GitHub.png =24x24)  
+- [x] ![LinkedIn](/linkedin.png =24x24) [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
+- [x] ![Github](/GitHub.png =24x24) [My GitHub](https://github.com/Hyde4thHeaven/)  
 - [ ] ![Facebook](/facebook.png =24x24) PM me yours first. :laughing:  
 - [ ] ![Twitter](/twitter.png =24x24) Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
 
