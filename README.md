@@ -1,7 +1,4 @@
 <body style="background-color:#EBF5FB;"> </body>  
-  
-# Biography  
-  
 <table border="0">
  <tr>
   <td><img src="profile.jpg" width="150"/></td>
