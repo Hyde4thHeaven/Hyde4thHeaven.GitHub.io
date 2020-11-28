@@ -10,13 +10,14 @@
 > + Back in during the years 2006-2009, financial trends grow very fast and will be the future of the world in 2010-2020, I decided to turn my career to the financial and banking sector, at *[Government Savings Bank](https://www.gsb.or.th)*. From evaluating officer, procurement officer, to electronic government procurement (e-GP) lecturer and procurement planning manager, also acting CEO of the special strategic team in the smart procurement development project.  
 > + To live my own life and find something driven by my skills, in 2019, I move to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
-## Awards and Licenses 
-| Year | Awards and Achievements |
-| ------ | ------ |
-| 2018 | **GSB Excellence Award**, Organizational Development.
-| 2017 | **GSB KM Award**, Procurement Knownledge Management.
-| | License for **Life Insurance Agent**.
-| | License for **Professional Practice, Associate Civil Engineer**.
+## Awards and Licenses  
+  
+Year | Awards and Achievements
+------ | ------
+2018 | **GSB Excellence Award**, Organizational Development.
+2017 | **GSB KM Award**, Procurement Knownledge Management.
+| License for **Life Insurance Agent**.
+| License for **Professional Practice, Associate Civil Engineer**.
   
 ## Lives
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
