@@ -1,9 +1,9 @@
 # VUTTAWAT UYANONT  
-![](profile.jpg){:height="20%"} | Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
-*10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
-**Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
------ | -----
+![](profile.jpg){:height="20%"}
+> Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
+> *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
+> **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
+> **Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
   
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
@@ -11,10 +11,12 @@
 > + To live my own life and find something driven by my skills, in 2019, I move to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
 ## Awards and Licenses 
-> + **GSB Excellence Award 2018**, Organizational Development.  
-> + **GSB KM Award 2017**, Procurement Knownledge Management.  
-> + License for **Life Insurance Agent**.  
-> + License for **Professional Practice, Associate Civil Engineer**.  
+Year | Awards and Achievements
+---- | ----
+2018 | **GSB Excellence Award**, Organizational Development.  
+2017 | **GSB KM Award**, Procurement Knownledge Management.  
+ -   | License for **Life Insurance Agent**.  
+ -   | License for **Professional Practice, Associate Civil Engineer**.  
 
 ## Lives
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
