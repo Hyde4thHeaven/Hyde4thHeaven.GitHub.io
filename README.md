@@ -13,8 +13,8 @@
 
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
-> + Back in during the years 2006-2009, financial trends grow very fast and will be the future of the world in 2010-2020, he decided to turn his career to the financial and banking sector, at *[Government Savings Bank](https://www.gsb.or.th)*. From evaluating officer, procurement officer, to electronic government procurement (e-GP) lecturer and procurement planning manager, also acting CEO of the special strategic team in the smart procurement development project.  
-> + To live his own life and find something driven by his skills, in 2019, he moves to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
+> + Back in during the years 2006-2009, financial trends grow very fast and will be the future of the world in 2010-2020, I decided to turn my career to the financial and banking sector, at *[Government Savings Bank](https://www.gsb.or.th)*. From evaluating officer, procurement officer, to electronic government procurement (e-GP) lecturer and procurement planning manager, also acting CEO of the special strategic team in the smart procurement development project.  
+> + To live my own life and find something driven by my skills, in 2019, I move to *[FWD Insurance Co., Ltd.](https://www.fwd.co.th)* as a digital distribution project manager.  
   
 ## Awards and Licenses 
 > + **GSB Excellence Award 2018**, Organizational Development.  
@@ -23,7 +23,7 @@
 > + License for **Professional Practice, Associate Civil Engineer**.  
 
 ## Lives
-> + Does not have any experience in direct-Cybersecurity but has to coordinate some work with stakeholders.  
+> + Do not have any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
 > + Intermediate programming skills.  
 > + Interested in IT & Tech, Banking, Financial, Real Estate, and Business.  
 > + Also looks for an opportunity in both Cybersecurity and Blockchain technology.  
@@ -33,10 +33,10 @@
 > + Trading Card Game  
 > + Go  
   
-## On the back of his contents created
+## On the back of my contents created
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
   
-## Keep in touch with Harry via:  
+## Keep in touch with me via:  
 <img src="Korea.jpg" width="650" style="float:right"/>
 <p>
   <a href="https://www.linkedin.com/in/v-uyanont/" rel="nofollow noreferrer">
