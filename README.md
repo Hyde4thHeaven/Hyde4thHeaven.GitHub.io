@@ -12,11 +12,11 @@
   
 ## Awards and Licenses 
 Year | Awards and Achievements
----- | ----
+------ | ------
 2018 | **GSB Excellence Award**, Organizational Development.
 2017 | **GSB KM Award**, Procurement Knownledge Management.
- -   | License for **Life Insurance Agent**.
- -   | License for **Professional Practice, Associate Civil Engineer**.
+- | License for **Life Insurance Agent**.
+- | License for **Professional Practice, Associate Civil Engineer**.
   
 ## Lives
 > + Haven't any experience in direct-Cybersecurity but have to coordinate some work with stakeholders.  
