@@ -1,16 +1,9 @@
-<body style="background-color:#EBF5FB;"> </body>  
-<table border="0">
- <tr>
-  <td><img src="profile.jpg" width="150"/></td>
-  <td><h1><font color="Blue"> Vuttawat Uyanont</font></h1>
-      Was born in Bangkok, 1984. <b>A.K.A.</b> Palm / Harry  <br>
-      <font color="grey"><i>10 years experienced project manager and CEO of THINK COMBO Co., Ltd.</i></font>  <br>
-      <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
-      <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  
-  </td>
- </tr>
-</table>
-
+![profile](/profile.jpg =150x200) | #VUTTAWAT UYANONT  
+| Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
+| *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
+| **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
+| **Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+  
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
 > + Back in during the years 2006-2009, financial trends grow very fast and will be the future of the world in 2010-2020, I decided to turn my career to the financial and banking sector, at *[Government Savings Bank](https://www.gsb.or.th)*. From evaluating officer, procurement officer, to electronic government procurement (e-GP) lecturer and procurement planning manager, also acting CEO of the special strategic team in the smart procurement development project.  
