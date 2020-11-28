@@ -1,9 +1,9 @@
 # VUTTAWAT UYANONT  
-![](profile.jpg){:height="25%" width="10%" style="float: right"}  
-> Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
-> *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
-> **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-> **Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+![](profile.jpg){:height="25%" width="25%" style="float: right"}  
+Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
+*10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
+**Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
+**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
   
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
@@ -35,7 +35,7 @@ Year | Awards and Achievements
   
 ## Keep in touch with me via:  
 ![](Korea.jpg){:height="50%" width="50%" style="float: right"}  
-[x] **LinkedIn** ![](linkedin.png){:height="2%" width="2%"} - [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
-[x] **GitHub** ![](GitHub.png){:height="2%" width="2%"} - [My GitHub](https://github.com/Hyde4thHeaven/)  
-[ ] **Facebook** ![](facebook.png){:height="2%" width="2%"} - PM me yours first :)  
-[ ] **Twitter** ![](twitter.png){:height="2%" width="2%"} - Sorry! for sniffing only :P  
+- [x] **LinkedIn** ![](linkedin.png){:height="2%" width="2%"} - [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
+- [x] **GitHub** ![](GitHub.png){:height="2%" width="2%"} - [My GitHub](https://github.com/Hyde4thHeaven/)  
+- [ ] **Facebook** ![](facebook.png){:height="2%" width="2%"} - PM me yours first :)  
+- [ ] **Twitter** ![](twitter.png){:height="2%" width="2%"} - Sorry! for sniffing only :P  
