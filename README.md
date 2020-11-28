@@ -1,5 +1,5 @@
 # VUTTAWAT UYANONT  
-![](profile.jpg){:height="50%" width="25%"}  
+![](profile.jpg){:height="10%" width="10%" style="float: left"}  
 > Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
 > *10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
 > **Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
@@ -34,9 +34,9 @@
   
 ## Keep in touch with me via:  
 ![](Korea.jpg){:height="50%" width="50%" style="float: right"}  
-- [x] ![](linkedin.png){:height="10%" width="10%"} [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
-- [x] ![](GitHub.png){:height="10%" width="10%"} [My GitHub](https://github.com/Hyde4thHeaven/)  
-- [ ] ![](facebook.png){:height="10%" width="10%"} PM me yours first. :laughing:  
-- [ ] ![](twitter.png){:height="10%" width="10%"} Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
+- [x] ![](linkedin.png){:height="2%" width="2%"} [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
+- [x] ![](GitHub.png){:height="2%" width="2%"} [My GitHub](https://github.com/Hyde4thHeaven/)  
+- [ ] ![](facebook.png){:height="2%" width="2%"} PM me yours first. :laughing:  
+- [ ] ![](twitter.png){:height="2%" width="2%"} Sorry! for sniffing only. :stuck_out_tongue_winking_eye:    
 
 
