@@ -37,7 +37,7 @@
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
   
 ## Keep in touch with me via:  
-<img src="Korea.jpg" width="650" style="float:right"/>
+![Design Factory Korea](/Korea.jpg =650x){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 - [x] ![LinkedIn](/linkedin.png =24x24) [My LinkedIn](https://www.linkedin.com/in/v-uyanont/)  
 - [x] ![Github](/GitHub.png =24x24) [My GitHub](https://github.com/Hyde4thHeaven/)  
 - [ ] ![Facebook](/facebook.png =24x24) PM me yours first. :laughing:  
