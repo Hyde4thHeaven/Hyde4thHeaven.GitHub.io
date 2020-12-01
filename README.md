@@ -1,9 +1,16 @@
-# VUTTAWAT UYANONT  
-![](profile.jpg){:height="25%" width="25%" style="float: right"}  
-Was born in Bangkok, 1984. **A.K.A.** Palm / Harry  
-*10 years experienced project manager and CEO of THINK COMBO Co., Ltd.*  
-**Graduated:** Bachelor of Engineering (Civil) from Thammasat University, 2006.  
-**Studying:** Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+<body style="background-color:#EBF5FB;"> </body>  
+  
+<table border="0">
+ <tr>
+  <td><img src="profile.jpg" width="150"/></td>
+  <td><h1><font color="Blue"> Vuttawat Uyanont</font></h1>
+      Was born in Bangkok, 1984. <b>A.K.A.</b> Palm / Harry  <br>
+      <font color="grey"><i>10 years experienced project manager and CEO of THINK COMBO Co., Ltd.</i></font>  <br>
+      <b>Graduated:</b> Bachelor of Engineering (Civil) from Thammasat University, 2006.  <br>
+      <b>Studying:</b> Master Computer Science in Cybersecurity Management at Mahanakorn University.  
+  </td>
+ </tr>
+</table>
   
 ## Careers
 > + Starting a job as a civil engineer for 4-years; Airport Rail Link, buildings, oil and gas plant projects.  
@@ -32,6 +39,7 @@ Year | Awards and Achievements
   
 ## On the back of my contents created
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
+> + [Look-up Secret Verifier in Security Requirements based on Application Security Verification and Digital Identity Guidelines](https://gitlab.com/Hyde4thHeaven/profile/-/wikis/Look-up-Secret-Verifier)
   
 ## Keep in touch with me via:  
 ![](Korea.jpg){:height="50%" width="50%" style="float: right"}  
