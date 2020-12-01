@@ -21,8 +21,8 @@
   
 Year | Awards and Achievements
 ------ | ------
-<div align="center">2018>/div> | **GSB Excellence Award**, Organizational Development.
-<div align="center">2017</div> | **GSB KM Award**, Procurement Knownledge Management.
+     2018      | **GSB Excellence Award**, Organizational Development.
+     2017      | **GSB KM Award**, Procurement Knownledge Management.
 2019 – Present | License for **Life Insurance Agent**.
 2006 – Present | License for **Professional Practice, Associate Civil Engineer**.
   
