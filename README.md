@@ -39,7 +39,7 @@ Year | Awards and Achievements
   
 ## On the back of my contents created
 > + [How to create a new GitLab pages from scratch (HTML pages)](https://hyde4thheaven.github.io/How-to-Create-GitLab-Pages/)  
-> + [Look-up Secret Verifier in Security Requirements based on Application Security Verification and Digital Identity Guidelines](https://gitlab.com/Hyde4thHeaven/profile/-/wikis/Look-up-Secret-Verifier)
+> + [Look-up Secret Verifier in Security Requirements based on the Application Security Verification Standard and Digital Identity Guidelines](https://gitlab.com/Hyde4thHeaven/profile/-/wikis/Look-up-Secret-Verifier)
   
 ## Keep in touch with me via:  
 ![](Korea.jpg){:height="50%" width="50%" style="float: right"}  
